@@ -1,1 +1,1 @@
-# cncf-on-azure
+# CNCF Stack on Azure
